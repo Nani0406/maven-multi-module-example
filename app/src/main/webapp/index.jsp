@@ -1,6 +1,5 @@
 <html>
 <body>
-hello, JSP<br/>
-<a href="/hello">Hello, Servlet</a>
+<H1>Hello. This is a multi modular project<H1>
 </body>
 </html>
